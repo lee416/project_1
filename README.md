@@ -1,2 +1,1 @@
-# project_1
-read me
+#here is a learning progress from Chris
