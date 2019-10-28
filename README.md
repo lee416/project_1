@@ -1,1 +1,1 @@
-#here is a learning progress from Chris
+# here is a learning progress of tensorflow from Chris
