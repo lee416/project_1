@@ -71,6 +71,7 @@ for i in range(1000):
  ## 启用tensorboard
  ## （1）打开Anaconda Prompt，输入activate tensorflow进入tensorflow环境；
  ## （2）开启tensorboard，需要输入大的命令为：tensorboard --logdir=F://tensorflow//graph
+ ##  tensorboard --logdir=C:\Users\user\Desktop\py\project_1\logs
  ## 其中logdir中的参数就是代码中保存graph的路径，我写为单斜杠时，tensorboard可打开，但graphs中显示“No graph definition files were found”，并不显示graph，路径参数改为双斜杠就可以了。
 
 
